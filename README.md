@@ -1,2 +1,2 @@
 # CSAPP
-a register of CSAPP learning
+a repo of CSAPP learning
